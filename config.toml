@@ -79,6 +79,11 @@ paginate     = 10
     name       = "Currículo pdf"
     url        = "https://drive.google.com/file/d/1D1i5SAV-rapx-tOloSpm_AC3USdoVnF7/view"
 
+  [[menu.main]]
+    identifier = "projetos"
+    name       = "Projetos"
+    url        = "projetos/"   
+
 
 
 
