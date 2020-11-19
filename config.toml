@@ -1,0 +1,85 @@
+baseurl      = "localhost"
+title        = "Nailton"
+languageCode = "pt-BR"
+theme        = "hello-friend-ng"
+paginate     = 10
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  # Subtitle for home
+  homeSubtitle = "Um curioso em front-end e back-end, com mais vivência no primeiro."
+
+  # Set disableReadOtherPosts to true in order to hide the links to other posts.
+  disableReadOtherPosts = false
+
+  # Enable sharing buttons, if you linke
+  enableSharingButtons = true
+
+  # Metadata mostly used in document's head
+  description = "Programador Web com PHP, VueJS e outras tecnologias."
+  keywords = "programador, php, vuejs, laravel, wordpress, php7, nodejs, front-end, back-end, moleculer, api's"
+  images = [""]
+
+  # Default theme "light" or "dark"
+  defaultTheme = "light"
+
+[taxonomies]
+    category = "blog"
+    tag      = "tags"
+    series   = "series"
+
+[languages]
+  [languages.en]
+    title = "Nailton Sousa"
+    subtitle = "Sobre & Currículo"
+    keywords = ""
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+    readOtherPosts = "Read other posts"
+
+    [languages.en.params.logo]
+      logoText = "$ cd /home/"
+      logoHomeLink = "/"
+    # or
+    #
+    # path = "/img/your-example-logo.svg"
+    # alt = "Your example logo alt text"
+
+[author]
+  name = "Nailton Sousa"
+  
+
+# Social icons
+  [[params.social]]
+    name = "email"
+    url  = "mailto:nailton.osn@gmail.com"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/nailton"
+
+  [[params.social]]
+    name = "pdf"
+    url  = "https://drive.google.com/file/d/1D1i5SAV-rapx-tOloSpm_AC3USdoVnF7/view"
+    title = "Currículo em PDF"
+
+
+  # And you can even create generic menu
+[menu]
+  [[menu.main]]
+    identifier = "about"
+    name       = "Sobre"
+    url        = "about/"
+
+  [[menu.main]]
+    identifier = "curriculo"
+    name       = "Currículo pdf"
+    url        = "https://drive.google.com/file/d/1D1i5SAV-rapx-tOloSpm_AC3USdoVnF7/view"
+
+
+
+
+
