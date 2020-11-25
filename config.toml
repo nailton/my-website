@@ -1,4 +1,4 @@
-baseurl      = "localhost"
+baseurl      = "nailton.github.io"
 title        = "Nailton"
 languageCode = "pt-BR"
 theme        = "hello-friend-ng"
@@ -72,7 +72,7 @@ paginate     = 10
   [[menu.main]]
     identifier = "about"
     name       = "Sobre"
-    url        = "about/"
+    url        = "/about"
 
   [[menu.main]]
     identifier = "curriculo"
@@ -82,7 +82,7 @@ paginate     = 10
   [[menu.main]]
     identifier = "projetos"
     name       = "Projetos"
-    url        = "projetos/"   
+    url        = "/projetos"   
 
 
 
