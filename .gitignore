@@ -1,4 +1,21 @@
+# Hugo default output directory
+/public
 
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
+
+/resources/_gen/
+
+hugo.exe
+hugo.linux
+hugo.darwin
 # Created by https://www.gitignore.io/api/macos
 # Edit at https://www.gitignore.io/?templates=macos
 

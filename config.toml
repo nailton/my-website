@@ -1,4 +1,4 @@
-baseurl      = "nailton.github.io"
+baseurl      = "localhost"
 title        = "Nailton"
 languageCode = "pt-BR"
 theme        = "hello-friend-ng"
