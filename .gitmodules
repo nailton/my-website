@@ -1,0 +1,4 @@
+[submodule "public"]
+	path = public
+	url = git@github.com:nailton/nailton.github.io.git
+	branch = main
