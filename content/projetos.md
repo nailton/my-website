@@ -32,7 +32,7 @@ aliases = ["projetos","projeto","project", "trabalhos", "works"]
 
 **Tecnologias:** [Framework Vue.js](https://vuejs.org/)
 
-**Webites:** http://yupay.digital/, [https://painel.yupay.digital/](https://painel.yupay.digital/), [https://dashboard.yupay.digital/](https://dashboard.yupay.digital/), App Android(Em breve), [App iOS](https://testflight.apple.com/join/pyAhwIWH) <br>
+**Webites:** [http://yupay.digital/](http://yupay.digital/), [https://painel.yupay.digital/](https://painel.yupay.digital/), [https://dashboard.yupay.digital/](https://dashboard.yupay.digital/), App Android(Em breve), [App iOS](https://testflight.apple.com/join/pyAhwIWH) <br>
 
 ### **Quarentena da Felicidade - PWA com 40 passos para apimentar seus dias em casa**   
 
@@ -42,11 +42,11 @@ Foi uma pequena plataforma, para os clientes adquirirem um pacote para 40 dias d
 
   
 
-**Cliente:** [Talita Bittencourt](http://talitabittencourt.com/)
+**Cliente:** [Talita Bittencourt](https://talitabittencourt.com/)
 
 **Tecnologias:** [Laravel](https://laravel.com/), [Vue.js](https://vuejs.org/), [MySQL](https://www.mysql.com/), [AWS](https://aws.amazon.com/pt/)
 
-**Websites:** [Quarentena da Felicidade](https://www.quarentenadafelicidade.com.br/), [PWA Login](http://quarentenadafelicidade.com.br/login), [Dashboard Login](http://dashboard.quarentenadafelicidade.com.br/)
+**Websites:** [Quarentena da Felicidade (desativado)](https://www.quarentenadafelicidade.com.br/), [PWA Login (desativado)](http://quarentenadafelicidade.com.br/login), [Dashboard Login (desativado)](http://dashboard.quarentenadafelicidade.com.br/)
 
 <br> 
 
@@ -57,11 +57,11 @@ Foi uma pequena plataforma, para os clientes adquirirem um pacote para 40 dias d
 Mentoria, foi uma plataforma para os clientes pagarem por sessões particulares com a Talita Bittencourt. O sistema foi pensado em limite de vagas e dividido por turmas e horários. Fizemos a integração com checkout padrão (externo) com Yupay. O sistema também contava com um questionário para ser um "raio-x" das clientes. Participei na criação do front-end com Nuxt.js e do back-end em Laravel com exposição de endpoints para consumo. Fiz também no dashboard o relatório financeiro e relatório de respostas do "raio-x".
   
 
-**Cliente:** [Talita Bittencourt](http://talitabittencourt.com/)
+**Cliente:** [Talita Bittencourt](https://talitabittencourt.com/)
 
 **Tecnologias:** [Laravel](https://laravel.com/), [Nuxt.js](https://nuxtjs.org/), [MySQL](https://www.mysql.com/), [AWS](https://aws.amazon.com/pt/)
 
-**Websites:** [Mentoria :: Esquente a sua relação após a gravidez](http://mentoria.talitabittencourt.com/)
+**Websites:** [Mentoria :: Esquente a sua relação após a gravidez (desativado)](http://mentoria.talitabittencourt.com/)
 
  <br> 
 
@@ -74,7 +74,7 @@ Foi um projeto de Webview para Android e iOS com quiz sobre Brasília. O sistema
 
 **Tecnologias:**  [Laravel](https://laravel.com/), [MySQL](https://www.mysql.com/), [AWS](https://aws.amazon.com/pt/), [HTML](https://pt.wikipedia.org/wiki/HTML), [CSS](https://pt.wikipedia.org/wiki/Cascading_Style_Sheets)
 
-**Websites:** [QUIZZBSB60 :: Brasília 60 Anos](http://www.quizzbsb60.com.br/), [App Android](https://dubbox.s3-sa-east-1.amazonaws.com/quizz-bsb-60/quizzbsb60_1.0.0.apk), [App iOS](https://apps.apple.com/us/app/quizzbsb60/id1508395995?l=pt&ls=1)
+**Websites:** [QUIZZBSB60 :: Brasília 60 Anos](https://quizzbsb60.com.br/), [App Android](https://play.google.com/store/apps/details?id=br.com.dubbox.quizbrasilia60), [App iOS](https://apps.apple.com/us/app/quizzbsb60/id1508395995?l=pt&ls=1)
 
 <br>  
 
@@ -95,7 +95,7 @@ Projeto para criar uma carteira digital, principais partes são API, Painel e Ap
 
 Projeto final de conclusão do curso técnico em eletrônica na Escola Técnica de Brasília - ETB
 
-O objetivo do projeto era demonstrar que com componentes baratos era possível fazer a proteção automática de motores de 3 fases. Em resumo o projeto consistia em ler as 3 fases da energia sem parar e caso alguma fase caísse o motor desligava automática, emitindo um alarme visual(led), sonoro(buzz) e no display com a mensagem de qual fase caiu.
+O objetivo do projeto era demonstrar que com componentes baratos era possível fazer a proteção automática de motores de 3 fases. Em resumo o projeto consistia em ler as 3 fases da energia sem parar e caso alguma fase caísse o motor desligava automáticamente, emitindo um alarme visual(led / LCD 24x4) e sonoro(buzz). O sistema também contava com sensor de temperatura.
 
 
 Atuai criando o Firmware em C++ para integração com Hardware. O projeto foi apresentado na feira anual "ETB Mix" em dezembro 2018.
@@ -111,7 +111,7 @@ Atuai criando o Firmware em C++ para integração com Hardware. O projeto foi ap
 
   
 
-Criei diversos websites, landing pages, e-commerce, com responsive web design, HTML, CSS, JS puro, wordpress, woocommerce, opencart,, customização de temas wordpress dentro os principais estão:
+Criei diversos websites, landing pages, e-commerces, com responsive web design, HTML, CSS, JS, jQuery, wordpress, woocommerce, opencart e customização de temas wordpress. Dentro os principais estão:
 
   
 

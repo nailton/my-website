@@ -8,16 +8,16 @@ aliases = ["sobre","contato","contact", "about"]
 
 Olá, meu nome é Nailton Sousa. Aqui está um resumo da minha carreira profissional e experiências relevantes no mundo web.
 
-Minha maior experiência foi em agências, como desenvolvedor, criando sites puros ou para wordpress - aqui explorei bastante coisas no universo desse cms. 
+Minha maior experiência foi em agências ([total interativa](http://totalinterativa.com.br/), [alma/age](https://almaage.com.br/)), como desenvolvedor, criando sites puros ou para wordpress - aqui explorei bastante coisas no universo desse cms. 
 
-Aprendi na prática a criar projetos com agilidade e qualidade, noções de design, marketing, noções de ferramentas como Adobe Photoshop, Adobe XD, Adobe Illustrator para realizar minhas tarefas.
+Aprendi na prática a criar projetos com agilidade e qualidade, noções de design, marketing, noções de ferramentas como Adobe Photoshop, Adobe XD e Adobe Illustrator.
 
   
 Minha carreira passa por empresas de tecnologia como [Fordev](https://registro.br/tecnologia/ferramentas/whois/?search=fordev.com.br) e atualmente trabalho na [Dubbox Tech](http://dubbox.com.br/), como desenvolvedor júnior. Participei na manutenção de sistemas de baixa, média e alta complexidade, utilizando tecnologias bem consolidadas como PHP, Apache, MySQL, JavaScript, REST e novos conceitos e frameworks como Node.js, Laravel, Vue.js, Microsserviços, API's, AWS, Nuxt.js e Sequelize.
 
   
 
-Me considero um cara de front-end (Júnior ~8 meses), com facilidades de trabalhar no back-end, pois resolvi diversos problemas em Laravel, PHP, Wordpress e Node.js. Pleno em desenvolvimento Wordpress (+5 anos).
+Me considero um cara de front-end júnior (~8 meses), com facilidades de trabalhar no back-end, pois resolvi diversos problemas em Laravel, PHP, Wordpress e Node.js. Pleno em desenvolvimento Wordpress (+5 anos).
 
 Sinta-se à vontade para entrar em contato comigo por [e-mail](mailto:nailton.osn@gmail.com)
   
